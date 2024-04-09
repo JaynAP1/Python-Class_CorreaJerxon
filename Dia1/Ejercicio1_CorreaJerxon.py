@@ -1,10 +1,7 @@
-print("Holaaaa, bienvenido a la calculadora de sumas")
+#-------------------------------------------------
+#--------DIA 1 CHEAT SHEET PYTHON-----------------
+#-------------------------------------------------
 
-sum1 = int(input("ingrese el numero 1: "))
-sum2 = int(input("Ingrese el numero 2: "))
+print("Hola mundo")
 
-
-total= sum1+sum2
-
-print(total)
-
+#Desarrollado por Jerxon Jair Correa Amaris // C.C: 1004922559
