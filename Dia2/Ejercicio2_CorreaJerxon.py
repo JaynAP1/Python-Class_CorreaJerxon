@@ -13,7 +13,7 @@ opcion= int(input("Ingresa el numero para comenzar: "))
 if opcion==1:
     print("================El juego a comenzado===========")
     while intento != Aleatorio:
-        intento = int(input("¿Con que numero deseas intentarlo?"))
+        intento = int(input("Intenta adivinar el numero: "))
     
 
         if intento == Aleatorio:
