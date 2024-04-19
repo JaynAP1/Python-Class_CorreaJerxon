@@ -58,6 +58,7 @@ while True: #Un ciclo while que ira con el menu para que despues de hacer cada i
         print(input("Presione Enter para continuar"))
         break #Terminamos el programa
 
+#Elaborado por Jerxon Correa Amaris C.C 1004922559
 
 
 
