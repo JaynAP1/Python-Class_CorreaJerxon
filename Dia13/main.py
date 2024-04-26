@@ -133,7 +133,7 @@ while bol:
     
     elif opcion==4:
         os.system("cls")
-        print("===============================Eliminar===============================")
+        print("===============================Ver===============================")
         IdGrup=int(input("Ingrese el numero de grupo que deseas ver: "))
         IdGrupo=IdGrup-1
         IdComparado=int(input("Ingrese el codigo del estudiante que desea ver: "))
@@ -148,7 +148,7 @@ while bol:
             print("Este estudiante no existe en la base de datos")
 
     elif opcion==5:
-        print("===============================Eliminar===============================")
+        print("===============================Salir===============================")
         print(input("Presiona Enter para salir"))
         bol=False
 #Hecho por Jerxon Correa // CC 1004922559
