@@ -26,8 +26,8 @@ The repository containt the work of a month from practicing day after day difere
 |CRUD|
 |Json|
 
-##Languages
- -Python
+## Languages
+ - Python
  
 ## Use
 For use the programs of this repository is required install Visual Studio Code, dowload python IDLE then in VSC install the extension called Python to correct funcionality
